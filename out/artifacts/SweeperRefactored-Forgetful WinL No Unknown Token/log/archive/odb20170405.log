@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-05 15:28:29 #1 store] 
+Database 'C:\Users\Linniel\Documents\SweeperRefactored\out\artifacts\SweeperRefactored-No Unknown Token\cases.odb' is opened by 7312@DESKTOP-E7FP1AJ
+
+[2017-04-05 15:28:29 #2 type.registry] 
+New type Case
+
+[2017-04-05 15:28:29 #3 type] 
+Type Case is not enhanced.
+
+[2017-04-05 15:28:29 #4 type.registry] 
+New type int[]
+
+[2017-04-05 15:28:29 #5 type.registry] 
+New type int[][]
+

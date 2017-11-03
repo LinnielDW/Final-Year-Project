@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-10 14:18:15 #1 store] 
+Database 'C:\Users\Linniel\Documents\SweeperRefactored\out\artifacts\SweeperRefactored-Never forget Alone\cases.odb' is opened by 3816@DESKTOP-E7FP1AJ
+
+[2017-04-10 14:18:15 #2 type.registry] 
+New type Linniel.Case
+
+[2017-04-10 14:18:15 #3 type] 
+Type Linniel.Case is not enhanced.
+
+[2017-04-10 14:18:15 #4 type.registry] 
+New type int[]
+
+[2017-04-10 14:18:15 #5 type.registry] 
+New type int[][]
+

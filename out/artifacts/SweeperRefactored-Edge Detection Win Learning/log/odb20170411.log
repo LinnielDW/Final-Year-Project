@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-04-11 15:41:26 #1 store] 
+Database 'C:\Users\Linniel\Documents\SweeperRefactored\out\artifacts\SweeperRefactored-Edge Detection Never Forget Win Learning\cases.odb' is opened by 14772@DESKTOP-E7FP1AJ
+
+[2017-04-11 15:41:26 #2 type.registry] 
+New type Linniel.Case
+
+[2017-04-11 15:41:26 #3 type] 
+Type Linniel.Case is not enhanced.
+
+[2017-04-11 15:41:26 #4 type.registry] 
+New type int[]
+
+[2017-04-11 15:41:26 #5 type.registry] 
+New type int[][]
+
